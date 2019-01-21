@@ -33,5 +33,5 @@ Software Installed:
 - python-httplib2
 - python-requests
 
-Please refer to the "Notes to the Reviewer" section for 'grader's SSH RSA Key.
+Please refer to the "Submission Details" section for 'grader's SSH RSA Key.
 
